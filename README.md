@@ -1,6 +1,5 @@
 # CS5610 HTML, CSS, and JS Self-Assessment 
-## Srija Gadiraju 
-### Fall 2023
+## Srija Gadiraju (Fall 2023)
 
 Assessment Guidelines:
 1. HTML. Create a webpage with a navbar, some main content with one main header and 4 subheaders and sections, and a footer. Also provide a list of the 10 most useful tags (e.g. div) for you in HTML
