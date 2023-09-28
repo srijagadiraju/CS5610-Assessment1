@@ -37,18 +37,18 @@ main {
 
 /* HTML SECTION */
 .HTML-tags ol {
-  text-align: left; /* Reset text alignment */
+  text-align: left; 
   margin-left: auto;
   margin-right: auto;
-  max-width: 400px; /* Adjust the max width as needed */
+  max-width: 400px; 
 }
 
 /* SEO SECTION */
 .SEO ol {
-  text-align: left; /* Reset text alignment */
+  text-align: left; 
   margin-left: auto;
   margin-right: auto;
-  max-width: 400px; /* Adjust the max width as needed */
+  max-width: 400px; 
 }
 
 /* TABLE PAGE */
@@ -70,10 +70,10 @@ main {
 
 /* SIZING SECTION */
 .sizing ul {
-  text-align: left; /* Reset text alignment */
+  text-align: left; 
   margin-left: auto;
   margin-right: auto;
-  max-width: 400px; /* Adjust the max width as needed */
+  max-width: 400px; 
 }
 
 /* BOX MODEL SECTION */
@@ -106,10 +106,10 @@ main {
 
 /* POSITION SECTION */
 .options ul {
-  text-align: left; /* Reset text alignment */
+  text-align: left; 
   margin-left: auto;
   margin-right: auto;
-  max-width: 400px; /* Adjust the max width as needed */
+  max-width: 400px; 
 }
 
 #positioning {
