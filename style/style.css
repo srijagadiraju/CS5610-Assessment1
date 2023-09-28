@@ -1,0 +1,171 @@
+/* WHOLE PAGE */
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  background-color: #afffb7;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+nav {
+  background-color: #c1ffb3;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  position: sticky; 
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  width: 100%;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+main {
+  padding: 20px;
+}
+
+/* HTML SECTION */
+.HTML-tags ol {
+  text-align: left; /* Reset text alignment */
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px; /* Adjust the max width as needed */
+}
+
+/* SEO SECTION */
+.SEO ol {
+  text-align: left; /* Reset text alignment */
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px; /* Adjust the max width as needed */
+}
+
+/* TABLE PAGE */
+.table {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: 0 auto;
+}
+.row {
+  display: flex;
+}
+.cell {
+  border: 1px solid #000000;
+  padding: 10px;
+  text-align: center;
+  flex: 1;
+}
+
+/* SIZING SECTION */
+.sizing ul {
+  text-align: left; /* Reset text alignment */
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px; /* Adjust the max width as needed */
+}
+
+/* BOX MODEL SECTION */
+.b1 {
+  background: rgb(255, 131, 236);
+  height: 100%;
+  margin: 4rem;
+  width: auto;
+}
+
+.b2 {
+  background: rgb(87, 255, 93);
+  padding: 2rem;
+}
+
+.b3 {
+  background: rgb(202, 138, 255);
+}
+
+.b4 {
+  background: rgb(133, 255, 229);
+  margin: 4rem;
+}
+
+.b5 {
+  background: rgb(0, 67, 139);
+  margin: 4rem;
+  padding: 2rem;
+}
+
+/* POSITION SECTION */
+.options ul {
+  text-align: left; /* Reset text alignment */
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px; /* Adjust the max width as needed */
+}
+
+#positioning {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box {
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+.static {
+  position: static;
+  background: rgb(255, 150, 70);
+  width: 25rem;
+  height: 5rem;
+}
+
+.fixed {
+  position: fixed;
+  background: rgb(239, 99, 255);
+  padding: 0.5rem;
+  flex-wrap: wrap;
+  display: flex;
+  right: 0;
+  margin-right: 1rem;
+  top: 10rem;
+  width: 10rem;
+}
+
+.absolute {
+  position: absolute;
+  background: rgb(189, 141, 255);
+  left: -2rem;
+  width: 20rem;
+  height: 5rem;
+  top: 0.5rem;
+}
+
+.relative {
+  position: relative;
+  background: rgb(110, 137, 255);
+  display: flex;
+  width: 35rem;
+  height: 10rem;
+  margin-right: 4rem;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* FOOTER */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
